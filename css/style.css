@@ -10754,7 +10754,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0;
   font-family: "Arvo", "Times New Roman", Times, serif;
   font-weight: 700;
-  color: #1e3953;
+  color: #fff;
 }
 
 h1 > span, h2 > span, h3 > span, h4 > span, h5 > span, h6 > span, .h1 > span, .h2 > span, .h3 > span, .h4 > span, .h5 > span, .h6 > span {
@@ -11283,7 +11283,7 @@ address {
 }
 
 .page .text-gray-base {
-  color: #000;
+  color: #fff;
 }
 
 .page a.text-gray-base:hover,
