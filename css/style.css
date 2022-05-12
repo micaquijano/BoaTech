@@ -30348,7 +30348,7 @@ form.label-outside .form-validation {
 
 .section-40 {
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .section-50 {
@@ -30489,8 +30489,8 @@ form.label-outside .form-validation {
     padding-bottom: 66px;
   }
   .section-sm-75 {
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 50px;
+    padding-bottom: 20px;
   }
   .section-sm-90 {
     padding-top: 90px;
@@ -33393,8 +33393,9 @@ blockquote cite {
   }
 }
 
-.bg-cello .post-preview .list-meta > li {
-  color: #57738f;
+.bg-cello {
+  background: rgb(10,19,99) !important;
+  background: linear-gradient(90deg, rgba(10,19,99,1) 0%, rgba(37,35,35,1) 50%, rgba(11,27,98,1) 100%) !important;
 }
 
 .post-minimal .post-image {
