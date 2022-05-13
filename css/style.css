@@ -33373,7 +33373,7 @@ blockquote cite {
   }
   .blog-timeline > * {
     display: inline-block;
-  }
+  }bg-cell
   .blog-timeline > dt {
     min-width: 65px;
     padding-right: 20px;
@@ -33393,9 +33393,10 @@ blockquote cite {
   }
 }
 
+/* footer */
 .bg-cello {
-  background: rgb(10,19,99) !important;
-  background: linear-gradient(90deg, rgba(10,19,99,1) 0%, rgba(37,35,35,1) 50%, rgba(11,27,98,1) 100%) !important;
+ background: rgb(29,48,219) !important;
+ background: linear-gradient(90deg, rgba(29,48,219,1) 0%, rgba(24,23,23,1) 50%, rgba(48,82,228,1) 100%) !important;
 }
 
 .post-minimal .post-image {
@@ -48537,4 +48538,17 @@ img.mfp-img {
   height: 200px;
   margin-top: 10px;
   overflow: auto;
+}
+.grid-footer{
+  display: flex;
+  justify-content: center;
+}
+.text-info {
+font-family: Arial, Helvetica, sans-serif;
+font-size: x-large;
+color: #000;
+}
+.br{
+  color: #000 !important;
+  font-weight:bold;
 }
